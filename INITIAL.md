@@ -1,14 +1,16 @@
 ## FEATURE:
 
-[Insert your feature here]
+- Trading BTC bot that has very high accuracy and can make real money for me
+- Can win the market at 70% win rate
+- Easy to set up on Ubuntu
 
 ## EXAMPLES:
 
-[Provide and explain examples that you have in the `examples/` folder]
+In the `examples/` folder, there are files about our strategy and example scripts for you to read to understand and create a great new script that can achieve above feaures
 
 ## DOCUMENTATION:
 
-[List out any documentation (web pages, sources for an MCP server like Crawl4AI RAG, etc.) that will need to be referenced during development]
+Autotrade.pdf in the `examples/` folder
 
 ## OTHER CONSIDERATIONS:
 
