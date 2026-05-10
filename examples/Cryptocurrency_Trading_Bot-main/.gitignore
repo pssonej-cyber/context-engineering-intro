@@ -1,6 +1,0 @@
-# ignore project files
-.idea
-*.iml
-out
-gen
-venv
