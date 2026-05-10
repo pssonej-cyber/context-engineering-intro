@@ -1,7 +1,0 @@
-requests>=2.31
-numpy>=1.26
-pydantic>=2.5
-pydantic-settings>=2.1
-python-dotenv>=1.0
-pytest>=8.0
-ruff>=0.1
