@@ -1,8 +1,6 @@
 ## FEATURE:
 
-- Trading BTC bot that has very high accuracy and can make real money for me
-- Can win the market at 70% win rate
-- Easy to set up on Ubuntu
+xxx
 
 ## EXAMPLES:
 
